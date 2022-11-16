@@ -1,0 +1,42 @@
+{
+   "token": "MTAyMzMyOTU5NDI0MzMwMTQ2Ng.Gb5Cu7.LwhEYTpBmt2DqCU6h4IU0eVi1b6DvDVSqZ0FdM",
+
+   "prefix": "g",
+   "ownerIDS": [
+      "417009909297840138",
+      "338713335862394890"
+   ],
+   "status": {
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "node2.lewdhutao.tech",
+            "port": 433,
+            "password": "lewdhutao",
+            "secure" : true
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "ec3cd0ceb75a4170908e7d9f1dc45b6a",
+      "clientSecret": "a8421e57a937475c813c81103b7271e5"
+   },
+
+   
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 60000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 60000
+      }
+   }
+}
